@@ -2,7 +2,7 @@
 <h3 align="center">BCA Student | Tech Enthusiast | Guitar Learner</h3>
 
 <p align="center">
-  🎓 1st Semester @ Allahabad University | 💻 Learning C, Python, Java, HTML, CSS, JavaScript <br>
+  🎓 @ Allahabad University | 💻 Learning C, Python, Java, HTML, CSS, JavaScript <br>
   🎸 Guitarist in training | 🌙 Night owl <br>
 </p>
 
