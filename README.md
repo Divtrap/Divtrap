@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm a 1st Semester BCA Student at **Allahabad University**
+- 🎓 I'm a BCA Student at **Allahabad University**
 - 💻 Currently learning **C, Java, Python, HTML, CSS, and JavaScript**
 - 🎯 2025 Goals: Open-source, Projects, and Portfolio!
 - 🌙 I usually sleep, unless there's code to debug 😅
