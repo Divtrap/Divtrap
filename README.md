@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Divyansh Tripathi!
 
-Welcome to my GitHub profile! I'm a passionate learner and developer currently pursuing a **Bachelor of Computer Applications (BCA)** at **Allahabad University**.
+Welcome to my GitHub profile! I'm a passionate learner currently pursuing a **Bachelor of Computer Applications (BCA)** at **Allahabad University**.
 
 ## 🚀 About Me
 
